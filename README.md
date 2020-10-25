@@ -74,7 +74,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 60. [Links to This Repository](#LinkstoThisRepository)
 61. [To be Classified](#TobeClassified)
 62. [Contributions](#Contributions)
-
+63. [2d Segmentation, Classification and Regression](#https://link.springer.com/chapter/10.1007/978-3-030-39074-7_39)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -607,4 +607,4 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ##  62. <a name='Contributions'></a>Contributions
 Do feel free to contribute!
 
-You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point.
+You can raise an issue or submit the pull request, whichever is more convenient for you. The guideline is very simple: just follow the format of the previous bullet point.
